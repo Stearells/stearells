@@ -1,16 +1,36 @@
-### Hi there 👋
+# 🐙 Hi there, i am 🌀 Stearells 🌀
+![](nn_round.png)
+### ``` Favourite languages ```
+🐙 C
 
-<!--
-**Stearells/stearells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌀 Python
 
-Here are some ideas to get you started:
+![123](delim_round.png)
+### ``` Interested in ```
+🐙 Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌀 Automation
+
+🐙 Low level programming
+
+![123](delim_round.png)
+### ``` Contacts ```
+🐙 [VK](https://vk.com/steare11s)
+
+🌀 [Self](https://github.com/Stearells)
+
+🐙 Mail: stearells@gmail.com
+
+🌀 [Telegram](https://t.me/stearells)
+
+![123](delim_round.png)
+### ``` About me ```
+🐙 My name is Artyom Korobov, im living in Russian Federation.
+
+🌀 Love programming, hardware
+
+🐙 ... and cats.
+
+🌀 If you want to contact with me, please use Telegram.
+![123](delim_round.png)
+# Welcome.
