@@ -1,5 +1,5 @@
 # 🐙 Hi there, i am 🌀 Stearells 🌀
-![](nn_round.png)
+![123](delim_round.png)
 ### ``` Favourite languages ```
 🐙 C
 
